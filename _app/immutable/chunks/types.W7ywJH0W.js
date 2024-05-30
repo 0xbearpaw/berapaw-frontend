@@ -1,0 +1,1 @@
+var d=(e=>(e[e.All=0]="All",e[e.Pending=1]="Pending",e[e.Active=2]="Active",e[e.Passed=3]="Passed",e[e.Rejected=4]="Rejected",e[e.Failed=5]="Failed",e))(d||{});const i={[d.Active]:"purple",[d.Rejected]:"red",[d.Pending]:"yellow",[d.Passed]:"green",[d.Failed]:"green",[d.All]:void 0};export{d as P,i as s};
